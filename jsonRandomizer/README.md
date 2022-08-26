@@ -1,0 +1,11 @@
+# About
+- I ran it with **Python 3.10**.
+- I created a json for testing purposes, you can view the format there, but also:
+  - IMEI (int)(15-digits)--------------------(Random)
+    - Plate     (Str)-------------------------------(Will be specific, but I'll assign random numbers for testing)
+    - Location  (float,float)(lat/lon)-----------(Random)
+    - Helmet    (bool)---------------------------(Random)
+    - Engine    (bool)---------------------------(Random)
+    - avgSpeed  (float)------------------------(Random)
+    - personId  (int)(8-digits)-----------------(Specific, 6 different)
+    - brandId   (int)(8-digits)------------------(Specific, 6 different)
