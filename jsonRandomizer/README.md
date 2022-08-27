@@ -1,4 +1,10 @@
 # About
+- I Needed to set up a database for my own business.
+However, since I did not have the necessary data for
+the test, I felt the need to write a tool that would
+generate random data in my own format.
+It generates the amount of random data I want and
+saves it in JSON format.
 - Written with **Python 3.10.4**.
 - I created a json for testing purposes, you can view the format there, but also:
   - IMEI (int)(15-digits)--------------------(Random)
