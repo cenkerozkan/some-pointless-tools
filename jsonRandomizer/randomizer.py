@@ -53,7 +53,7 @@ def main():
     # File
     s_file_name = input("Enter file name:")
     with open(f'{s_file_name}.json','w') as file:
-        json.dump(vehicle,file)
+        json.dump(vehicle,file,indent=6)
     file.close()
 
 
