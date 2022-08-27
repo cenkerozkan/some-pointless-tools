@@ -1,5 +1,5 @@
 # About
-- I ran it with **Python 3.10**.
+- Written with **Python 3.10.4**.
 - I created a json for testing purposes, you can view the format there, but also:
   - IMEI (int)(15-digits)--------------------(Random)
     - Plate     (Str)-------------------------------(Will be specific, but I'll assign random numbers for testing)
