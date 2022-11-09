@@ -1,4 +1,7 @@
 # About
+**WARNING: Be careful while using os.system function in python, It might be harmful if you don't know what you are dealing with.**
+
+
 I am using manjaro linux on my laptop. The 'intel p_state' driver, which is responsible for adjusting the clock speed of intel processors, is running in the linux kernel.
 
 But for some reason I don't know yet, this driver is not working properly on my computer. It turns off the turbo boost feature by itself and sets the maximum clock speed to 2.40 GHz (Which normally should be 4.10Ghz max) and does not allow it to go higher.
